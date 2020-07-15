@@ -38,6 +38,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 2. You have a Github account and you perform basic operations
 3. You have basic understanding of git operations.
 
+### Steps
 1. Create a folder in your repo directory locally and clone the source repo
     
         git clone https://github.com/Bapic/azure-voting-app-redis.git
