@@ -33,6 +33,10 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 ------------------------------------------------------------------
 
 ## A few step by step for quick reference
+### Pre-requisites:
+1. You already have an active Azure Subscription
+2. You have a Github account and you perform basic operations
+3. You have basic understanding of git operations.
 
 1. Create a folder in your repo directory locally and clone the source repo
     
